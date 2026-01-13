@@ -1,0 +1,29 @@
+{
+  "name": "api-aggregator",
+  "version": "1.0.0",
+  "description": "API aggregator for business intelligence data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmuthii/api-aggregator-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/markmuthii/api-aggregator-masterclass/issues"
+  },
+  "homepage": "https://github.com/markmuthii/api-aggregator-masterclass#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

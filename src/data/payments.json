@@ -1,0 +1,7 @@
+[
+    { "amount": 5000, "status": "success" },
+    { "amount": 12000, "status": "success" },
+    { "amount": 3000, "status": "failed" },
+    { "amount": 8000, "status": "success" }
+  ]
+  
