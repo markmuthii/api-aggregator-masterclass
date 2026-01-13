@@ -4,7 +4,8 @@
   "description": "API aggregator for business intelligence data.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon",
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
